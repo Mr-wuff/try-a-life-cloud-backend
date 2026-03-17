@@ -1,1 +1,0 @@
-# 标识 world_data 目录为一个 Python 包
